@@ -69,7 +69,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-06T19:13:52Z",
+            "last_commit": "2026-08-13T12:44:54Z",
             "owner": "streamingfast",
             "repo": "firehose-solana",
             "stars": 24
@@ -749,10 +749,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T04:25:08Z",
+            "last_commit": "2026-08-13T17:20:59Z",
             "owner": "aptos-labs",
             "repo": "aptos-core",
-            "stars": 6440
+            "stars": 6439
           }
         },
         {
@@ -777,7 +777,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-06T19:13:52Z",
+            "last_commit": "2026-08-13T12:44:54Z",
             "owner": "streamingfast",
             "repo": "firehose-solana",
             "stars": 24
@@ -906,7 +906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:27:22.933Z",
+    "last_updated": "2026-08-13T17:25:58.276Z",
     "original_repository": "pinax-network/awesome-substreams",
     "original_repository_sha": "11984fbbf40de409d09252ce5ef3a2e68dba431f",
     "enhanced_repository": "enhansome/enhansome-substreams",

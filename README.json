@@ -1,0 +1,916 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Twitter"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Blockchains"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Substreams Ethereum",
+          "description": "Substreams development kit for Ethereum chains, contains Firehose Block model and helpers as well as utilities for Ethereum ABI encoding/decoding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-23T13:45:01Z",
+            "owner": "streamingfast",
+            "repo": "substreams-ethereum",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Substreams Antelope",
+          "description": "This library contains the generated protobuffer for the Antelope blocks as well as helper methods to extract and parse block data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-10-16T22:36:30Z",
+            "owner": "pinax-network",
+            "repo": "substreams-antelope",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Substreams"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Firehose Ethereum",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T21:55:33Z",
+            "owner": "streamingfast",
+            "repo": "firehose-ethereum",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Firehose Solana",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-06T19:13:52Z",
+            "owner": "streamingfast",
+            "repo": "firehose-solana",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Firehose Cosmos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-12-08T16:37:12Z",
+            "owner": "graphprotocol",
+            "repo": "firehose-cosmos",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Firehose Aptos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-05-20T14:09:57Z",
+            "owner": "streamingfast",
+            "repo": "firehose-aptos",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Firehose Sui",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-05-09T15:00:53Z",
+            "owner": "Apocentre",
+            "repo": "sf-sui-extractor",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Firehose Near",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-25T08:03:21Z",
+            "owner": "streamingfast",
+            "repo": "firehose-near",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Firehose Arweave",
+          "description": "use as source (The Graph Arweave Integration Implementation).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-02-28T22:12:20Z",
+            "owner": "streamingfast",
+            "repo": "firehose-arweave",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Firehose"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PostgreSQL Sink",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-29T09:55:56Z",
+            "owner": "streamingfast",
+            "repo": "substreams-sink-sql",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Files Sink",
+          "description": "Binary application to consume your Substreams and output it's data out to files format (JSON, CSV, etc.).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-01-05T20:25:07Z",
+            "owner": "streamingfast",
+            "repo": "substreams-sink-files",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MongoDB Sink",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-11-24T20:38:51Z",
+            "owner": "streamingfast",
+            "repo": "substreams-sink-mongodb",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prometheus Sink",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-03-13T06:05:26Z",
+            "owner": "pinax-network",
+            "repo": "substreams-sink-prometheus",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSV Sink",
+          "description": "CSV sink module.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-06-07T08:16:42Z",
+            "owner": "pinax-network",
+            "repo": "substreams-sink-csv",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Discord Sink",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-10-12T00:16:32Z",
+            "owner": "pinax-network",
+            "repo": "substreams-sink-discord",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ClickHouse Sink",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-06-15T16:41:55Z",
+            "owner": "aleno-ai",
+            "repo": "substreams-sink-clickhouse",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Winston Sink",
+          "description": "Logger sink module.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2023-02-20T19:49:49Z",
+            "owner": "pinax-network",
+            "repo": "substreams-sink-winston",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Telegram Sink",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-08-22T08:23:38Z",
+            "owner": "pinax-network",
+            "repo": "substreams-sink-telegram",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slack Sink",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-08-22T08:19:40Z",
+            "owner": "pinax-network",
+            "repo": "substreams-sink-slack",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Substreams Sinks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Messari Substreams",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Compound V2",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2024-05-09T03:31:19Z",
+                "owner": "messari",
+                "repo": "substreams",
+                "stars": 63
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ENS",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2024-05-09T03:31:19Z",
+                "owner": "messari",
+                "repo": "substreams",
+                "stars": 63
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ERC20",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2024-05-09T03:31:19Z",
+                "owner": "messari",
+                "repo": "substreams",
+                "stars": 63
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ERC721",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2024-05-09T03:31:19Z",
+                "owner": "messari",
+                "repo": "substreams",
+                "stars": 63
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ETH Balance",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2024-05-09T03:31:19Z",
+                "owner": "messari",
+                "repo": "substreams",
+                "stars": 63
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Uniswap V2",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2024-05-09T03:31:19Z",
+                "owner": "messari",
+                "repo": "substreams",
+                "stars": 63
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-05-09T03:31:19Z",
+            "owner": "messari",
+            "repo": "substreams",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StreamingFast Substreams",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PancakeSwap Substreams",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Rust",
+                "last_commit": "2023-03-17T13:13:42Z",
+                "owner": "streamingfast",
+                "repo": "substreams-playground",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ETH Token Substreams",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Rust",
+                "last_commit": "2023-03-17T13:13:42Z",
+                "owner": "streamingfast",
+                "repo": "substreams-playground",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solana SPL Tokens",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Rust",
+                "last_commit": "2023-03-17T13:13:42Z",
+                "owner": "streamingfast",
+                "repo": "substreams-playground",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Uniswap",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Rust",
+                "last_commit": "2023-03-17T13:13:42Z",
+                "owner": "streamingfast",
+                "repo": "substreams-playground",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Example substreams consumers (Go, JavaScript, Python, Rust)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Rust",
+                "last_commit": "2023-03-17T13:13:42Z",
+                "owner": "streamingfast",
+                "repo": "substreams-playground",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ETH Block Meta",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2023-10-31T20:00:54Z",
+                "owner": "streamingfast",
+                "repo": "substreams-eth-block-meta",
+                "stars": 4
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2023-03-17T13:13:42Z",
+            "owner": "streamingfast",
+            "repo": "substreams-playground",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pinax Substreams",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "eosio.ibc",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2024-10-21T19:46:33Z",
+                "owner": "pinax-network",
+                "repo": "substreams",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "eosio.token",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2024-10-21T19:46:33Z",
+                "owner": "pinax-network",
+                "repo": "substreams",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "accounts",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2024-10-21T19:46:33Z",
+                "owner": "pinax-network",
+                "repo": "substreams",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "eosmechanics",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2024-10-21T19:46:33Z",
+                "owner": "pinax-network",
+                "repo": "substreams",
+                "stars": 5
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-10-21T19:46:33Z",
+            "owner": "pinax-network",
+            "repo": "substreams",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BuildersDAO Substreams",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Chainlink Prices",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2023-12-18T18:15:52Z",
+                "owner": "Graph-BuildersDAO",
+                "repo": "substreams",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ERC1155",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2023-12-18T18:15:52Z",
+                "owner": "Graph-BuildersDAO",
+                "repo": "substreams",
+                "stars": 3
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-12-18T18:15:52Z",
+            "owner": "Graph-BuildersDAO",
+            "repo": "substreams",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Substreams Examples"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "SDK"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Substreams Solana",
+          "description": "Substreams development kit for Solana chains, contains Rust Firehose Block model and helpers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-16T19:54:32Z",
+            "owner": "streamingfast",
+            "repo": "substreams-solana",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Substreams Rust",
+          "description": "Substreams is a powerful blockchain indexing technology, developed for The Graph Network.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-23T12:45:27Z",
+            "owner": "streamingfast",
+            "repo": "substreams-rs",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Antelope Rust",
+          "description": "Antelope Standard Library for Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-03-21T23:50:59Z",
+            "owner": "pinax-network",
+            "repo": "antelope.rs",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Rust"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "substreams-python",
+          "description": "WIP Python Interface for querying via substreams.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-05T21:03:56Z",
+            "owner": "messari",
+            "repo": "substreams-python",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "substreams_firehose",
+          "description": "Extract any data from the blockchain using gRPC-enabled endpoints (powered by Firehose and Substreams).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-18T12:34:41Z",
+            "owner": "pinax-network",
+            "repo": "substreams_firehose",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Python"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Substreams JS",
+          "description": "Substream JavaScript consumer library using Node.js Event emitters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-07-11T17:52:23Z",
+            "owner": "pinax-network",
+            "repo": "substreams-js",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "substreams-sink",
+          "description": "JavaScript/TypeScript toolset to facilitate substreams sink development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-06-19T13:52:06Z",
+            "owner": "pinax-network",
+            "repo": "substreams-sink",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "JavaScript"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Protobuf"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "​​Aptos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T04:25:08Z",
+            "owner": "aptos-labs",
+            "repo": "aptos-core",
+            "stars": 6440
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ethereum",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T21:55:33Z",
+            "owner": "streamingfast",
+            "repo": "firehose-ethereum",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "​​Solana",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-06T19:13:52Z",
+            "owner": "streamingfast",
+            "repo": "firehose-solana",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "​​NEAR",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-25T08:03:21Z",
+            "owner": "streamingfast",
+            "repo": "firehose-near",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "​​Cosmos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2023-12-08T16:31:40Z",
+            "owner": "graphprotocol",
+            "repo": "proto-cosmos",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "​​Arweave",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-02-28T22:12:20Z",
+            "owner": "streamingfast",
+            "repo": "firehose-arweave",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Blocks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "- Hotdog Powered 🌭",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-07-27T18:13:28Z",
+            "owner": "MercuricChloride",
+            "repo": "substreams_module_repo",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KVOperations",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-11-29T20:08:21Z",
+            "owner": "streamingfast",
+            "repo": "substreams-sink-kv",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EntityChanges",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-10-16T19:15:46Z",
+            "owner": "streamingfast",
+            "repo": "substreams-sink-entity-changes",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DatabaseChanges",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-01-27T20:42:26Z",
+            "owner": "streamingfast",
+            "repo": "substreams-sink-database-changes",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PrometheusOperations",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2024-08-02T20:52:29Z",
+            "owner": "pinax-network",
+            "repo": "substreams-sink-prometheus.rs",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Sinks"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:27:22.933Z",
+    "original_repository": "pinax-network/awesome-substreams",
+    "original_repository_sha": "11984fbbf40de409d09252ce5ef3a2e68dba431f",
+    "enhanced_repository": "enhansome/enhansome-substreams",
+    "enhanced_repository_description": null,
+    "title": "Awesome Substreams with stars"
+  }
+}

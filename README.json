@@ -55,10 +55,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-11T21:55:33Z",
+            "last_commit": "2026-08-14T04:35:59Z",
             "owner": "streamingfast",
             "repo": "firehose-ethereum",
-            "stars": 93
+            "stars": 92
           }
         },
         {
@@ -749,10 +749,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T17:20:59Z",
+            "last_commit": "2026-08-14T17:07:21Z",
             "owner": "aptos-labs",
             "repo": "aptos-core",
-            "stars": 6439
+            "stars": 6440
           }
         },
         {
@@ -763,10 +763,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-11T21:55:33Z",
+            "last_commit": "2026-08-14T04:35:59Z",
             "owner": "streamingfast",
             "repo": "firehose-ethereum",
-            "stars": 93
+            "stars": 92
           }
         },
         {
@@ -906,7 +906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T17:25:58.276Z",
+    "last_updated": "2026-08-14T17:23:37.089Z",
     "original_repository": "pinax-network/awesome-substreams",
     "original_repository_sha": "11984fbbf40de409d09252ce5ef3a2e68dba431f",
     "enhanced_repository": "enhansome/enhansome-substreams",

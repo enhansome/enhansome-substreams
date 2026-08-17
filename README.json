@@ -749,7 +749,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T07:50:33Z",
+            "last_commit": "2026-08-17T16:30:34Z",
             "owner": "aptos-labs",
             "repo": "aptos-core",
             "stars": 6438
@@ -906,7 +906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T16:47:04.153Z",
+    "last_updated": "2026-08-17T16:52:15.525Z",
     "original_repository": "pinax-network/awesome-substreams",
     "original_repository_sha": "11984fbbf40de409d09252ce5ef3a2e68dba431f",
     "enhanced_repository": "enhansome/enhansome-substreams",

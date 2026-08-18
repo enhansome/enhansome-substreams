@@ -58,7 +58,7 @@
             "last_commit": "2026-08-14T04:35:59Z",
             "owner": "streamingfast",
             "repo": "firehose-ethereum",
-            "stars": 92
+            "stars": 91
           }
         },
         {
@@ -157,9 +157,9 @@
           "description": null,
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "language": "Go",
-            "last_commit": "2026-07-29T09:55:56Z",
+            "last_commit": "2026-08-18T14:32:25Z",
             "owner": "streamingfast",
             "repo": "substreams-sink-sql",
             "stars": 31
@@ -645,7 +645,7 @@
             "last_commit": "2026-07-23T12:45:27Z",
             "owner": "streamingfast",
             "repo": "substreams-rs",
-            "stars": 13
+            "stars": 12
           }
         },
         {
@@ -749,7 +749,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T16:30:34Z",
+            "last_commit": "2026-08-18T16:43:27Z",
             "owner": "aptos-labs",
             "repo": "aptos-core",
             "stars": 6438
@@ -766,7 +766,7 @@
             "last_commit": "2026-08-14T04:35:59Z",
             "owner": "streamingfast",
             "repo": "firehose-ethereum",
-            "stars": 92
+            "stars": 91
           }
         },
         {
@@ -906,7 +906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T16:52:15.525Z",
+    "last_updated": "2026-08-18T16:54:50.780Z",
     "original_repository": "pinax-network/awesome-substreams",
     "original_repository_sha": "11984fbbf40de409d09252ce5ef3a2e68dba431f",
     "enhanced_repository": "enhansome/enhansome-substreams",

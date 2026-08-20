@@ -51,7 +51,7 @@
                 "archived": false,
                 "id": 396876570,
                 "language": "Go",
-                "last_commit": "2026-08-14T04:35:59Z",
+                "last_commit": "2026-08-20T16:21:18Z",
                 "owner": "streamingfast",
                 "repo": "firehose-ethereum",
                 "stars": 91
@@ -66,7 +66,7 @@
                 "archived": false,
                 "id": 282872124,
                 "language": "Go",
-                "last_commit": "2026-08-13T12:44:54Z",
+                "last_commit": "2026-08-20T12:44:40Z",
                 "owner": "streamingfast",
                 "repo": "firehose-solana",
                 "stars": 24
@@ -99,7 +99,22 @@
                 "last_commit": "2023-05-20T14:09:57Z",
                 "owner": "streamingfast",
                 "repo": "firehose-aptos",
-                "stars": 6
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Firehose Near",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 386413092,
+                "language": "Go",
+                "last_commit": "2026-07-25T08:03:21Z",
+                "owner": "streamingfast",
+                "repo": "firehose-near",
+                "stars": 4
               }
             },
             {
@@ -115,21 +130,6 @@
                 "owner": "Apocentre",
                 "repo": "sf-sui-extractor",
                 "stars": 4
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Firehose Near",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 386413092,
-                "language": "Go",
-                "last_commit": "2026-07-25T08:03:21Z",
-                "owner": "streamingfast",
-                "repo": "firehose-near",
-                "stars": 3
               }
             },
             {
@@ -797,10 +797,10 @@
                 "archived": false,
                 "id": 462597790,
                 "language": "Rust",
-                "last_commit": "2026-08-19T16:49:11Z",
+                "last_commit": "2026-08-20T16:20:25Z",
                 "owner": "aptos-labs",
                 "repo": "aptos-core",
-                "stars": 6438
+                "stars": 6436
               }
             },
             {
@@ -812,7 +812,7 @@
                 "archived": false,
                 "id": 396876570,
                 "language": "Go",
-                "last_commit": "2026-08-14T04:35:59Z",
+                "last_commit": "2026-08-20T16:21:18Z",
                 "owner": "streamingfast",
                 "repo": "firehose-ethereum",
                 "stars": 91
@@ -827,7 +827,7 @@
                 "archived": false,
                 "id": 282872124,
                 "language": "Go",
-                "last_commit": "2026-08-13T12:44:54Z",
+                "last_commit": "2026-08-20T12:44:40Z",
                 "owner": "streamingfast",
                 "repo": "firehose-solana",
                 "stars": 24
@@ -845,7 +845,7 @@
                 "last_commit": "2026-07-25T08:03:21Z",
                 "owner": "streamingfast",
                 "repo": "firehose-near",
-                "stars": 3
+                "stars": 4
               }
             },
             {
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T16:53:20.159Z",
+    "last_updated": "2026-08-20T16:58:35.847Z",
     "original_repository": "pinax-network/awesome-substreams",
     "original_repository_id": 594527628,
     "original_repository_sha": "11984fbbf40de409d09252ce5ef3a2e68dba431f",

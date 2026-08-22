@@ -147,7 +147,7 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 
 ### Firehose
 
-* [Firehose Ethereum](https://github.com/streamingfast/firehose-ethereum) ⭐ 91 | 🐛 10 | 🌐 Go | 📅 2026-08-20
+* [Firehose Ethereum](https://github.com/streamingfast/firehose-ethereum) ⭐ 91 | 🐛 9 | 🌐 Go | 📅 2026-08-21
 * [Firehose Solana](https://github.com/streamingfast/firehose-solana) ⭐ 24 | 🐛 5 | 🌐 Go | 📅 2026-08-20
 * [Firehose Cosmos](https://github.com/graphprotocol/firehose-cosmos) ⭐ 12 | 🐛 4 | 🌐 Go | 📅 2023-12-08
 * [Firehose Aptos](https://github.com/streamingfast/firehose-aptos) ⭐ 7 | 🐛 2 | 🌐 Go | 📅 2023-05-20
@@ -265,8 +265,8 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 
 ### Blocks
 
-* [​​Aptos](https://aptoslabs.com/) - [`aptos.extractor.v1.Block`](https://github.com/aptos-labs/aptos-core/blob/main/crates/aptos-protos/proto/aptos/extractor/v1/extractor.proto) ⭐ 6,435 | 🐛 555 | 🌐 Rust | 📅 2026-08-21
-* [Ethereum](https://ethereum.org/) - [`sf.ethereum.type.v2.Block`](https://github.com/streamingfast/firehose-ethereum/blob/develop/proto/sf/ethereum/type/v2/type.proto) ⭐ 91 | 🐛 10 | 🌐 Go | 📅 2026-08-20
+* [​​Aptos](https://aptoslabs.com/) - [`aptos.extractor.v1.Block`](https://github.com/aptos-labs/aptos-core/blob/main/crates/aptos-protos/proto/aptos/extractor/v1/extractor.proto) ⭐ 6,435 | 🐛 553 | 🌐 Rust | 📅 2026-08-22
+* [Ethereum](https://ethereum.org/) - [`sf.ethereum.type.v2.Block`](https://github.com/streamingfast/firehose-ethereum/blob/develop/proto/sf/ethereum/type/v2/type.proto) ⭐ 91 | 🐛 9 | 🌐 Go | 📅 2026-08-21
 * [​​Solana](https://solana.com/) - [`sf.solana.type.v1.Block`](https://github.com/streamingfast/firehose-solana/blob/develop/proto/sf/solana/type/v1/type.proto) ⭐ 24 | 🐛 5 | 🌐 Go | 📅 2026-08-20
 * [​​NEAR](https://near.org/) - [`sf.near.type.v1.Block`](https://github.com/streamingfast/firehose-near/blob/develop/proto/sf/near/type/v1/type.proto) ⭐ 4 | 🐛 2 | 🌐 Go | 📅 2026-07-25
 * [​​Cosmos](https://cosmos.network/) - [`sf.cosmos.type.v1.Block`](https://github.com/figment-networks/proto-cosmos/blob/main/sf/cosmos/type/v1/type.proto) ⭐ 0 | 🐛 0 | 🌐 Makefile | 📅 2023-12-08
@@ -282,4 +282,4 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._

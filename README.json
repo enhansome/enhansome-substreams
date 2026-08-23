@@ -797,10 +797,10 @@
                 "archived": false,
                 "id": 462597790,
                 "language": "Rust",
-                "last_commit": "2026-08-22T08:25:16Z",
+                "last_commit": "2026-08-23T16:33:40Z",
                 "owner": "aptos-labs",
                 "repo": "aptos-core",
-                "stars": 6435
+                "stars": 6434
               }
             },
             {
@@ -970,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T16:46:19.337Z",
+    "last_updated": "2026-08-23T16:48:34.217Z",
     "original_repository": "pinax-network/awesome-substreams",
     "original_repository_id": 594527628,
     "original_repository_sha": "11984fbbf40de409d09252ce5ef3a2e68dba431f",

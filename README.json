@@ -1174,7 +1174,7 @@
                 "id": 462597790,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T16:34:34Z",
+                "last_commit": "2026-09-06T17:38:18Z",
                 "open_issues": 554,
                 "owner": "aptos-labs",
                 "repo": "aptos-core",
@@ -1422,7 +1422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T18:27:06.709Z",
+    "last_updated": "2026-09-06T18:26:11.996Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome lists about Substreams",

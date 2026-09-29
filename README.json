@@ -17,7 +17,7 @@
                 "id": 494596764,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T19:52:15Z",
+                "last_commit": "2026-09-29T15:24:07Z",
                 "open_issues": 8,
                 "owner": "streamingfast",
                 "repo": "substreams-ethereum",
@@ -70,7 +70,7 @@
                 "id": 396876570,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T16:00:05Z",
+                "last_commit": "2026-09-29T20:42:25Z",
                 "open_issues": 4,
                 "owner": "streamingfast",
                 "repo": "firehose-ethereum",
@@ -137,28 +137,7 @@
                 "open_issues": 2,
                 "owner": "streamingfast",
                 "repo": "firehose-aptos",
-                "stars": 7,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:36:06.975Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Firehose Near",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 386413092,
-                "language": "Go",
-                "license": "Apache-2.0",
-                "last_commit": "2026-09-17T18:27:18Z",
-                "open_issues": 2,
-                "owner": "streamingfast",
-                "repo": "firehose-near",
-                "stars": 4,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:36:06.975Z"
@@ -180,6 +159,27 @@
                 "owner": "Apocentre",
                 "repo": "sf-sui-extractor",
                 "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:36:06.975Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Firehose Near",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 386413092,
+                "language": "Go",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-17T18:27:18Z",
+                "open_issues": 2,
+                "owner": "streamingfast",
+                "repo": "firehose-near",
+                "stars": 3,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:36:06.975Z"
@@ -969,7 +969,7 @@
                 "id": 538660914,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-09-11T20:11:03Z",
+                "last_commit": "2026-09-29T17:58:47Z",
                 "open_issues": 10,
                 "owner": "streamingfast",
                 "repo": "substreams-rs",
@@ -1174,11 +1174,11 @@
                 "id": 462597790,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-28T21:53:41Z",
-                "open_issues": 556,
+                "last_commit": "2026-09-29T19:07:09Z",
+                "open_issues": 555,
                 "owner": "aptos-labs",
                 "repo": "aptos-core",
-                "stars": 6435,
+                "stars": 6437,
                 "topics": [
                   "aptos",
                   "blockchain",
@@ -1201,7 +1201,7 @@
                 "id": 396876570,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T16:00:05Z",
+                "last_commit": "2026-09-29T20:42:25Z",
                 "open_issues": 4,
                 "owner": "streamingfast",
                 "repo": "firehose-ethereum",
@@ -1247,7 +1247,7 @@
                 "open_issues": 2,
                 "owner": "streamingfast",
                 "repo": "firehose-near",
-                "stars": 4,
+                "stars": 3,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:36:06.975Z"
@@ -1376,7 +1376,7 @@
                 "id": 505852589,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T20:34:18Z",
+                "last_commit": "2026-09-29T17:59:02Z",
                 "open_issues": 0,
                 "owner": "streamingfast",
                 "repo": "substreams-sink-database-changes",
@@ -1422,7 +1422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T22:10:37.195Z",
+    "last_updated": "2026-09-29T20:55:41.855Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome lists about Substreams",

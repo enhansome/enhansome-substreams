@@ -142,13 +142,13 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 
 ### Substreams
 
-* [Substreams Ethereum](https://github.com/streamingfast/substreams-ethereum) ⭐ 23 | 🐛 8 | 🌐 Rust | 📅 2026-09-29 - Substreams development kit for Ethereum chains, contains Firehose Block model and helpers as well as utilities for Ethereum ABI encoding/decoding.
+* [Substreams Ethereum](https://github.com/streamingfast/substreams-ethereum) ⭐ 23 | 🐛 7 | 🌐 Rust | 📅 2026-10-01 - Substreams development kit for Ethereum chains, contains Firehose Block model and helpers as well as utilities for Ethereum ABI encoding/decoding.
 * [Substreams Antelope](https://github.com/pinax-network/substreams-antelope) ⭐ 2 | 🐛 5 | 🌐 Rust | 📅 2026-09-02 - This library contains the generated protobuffer for the Antelope blocks as well as helper methods to extract and parse block data.
 
 ### Firehose
 
-* [Firehose Ethereum](https://github.com/streamingfast/firehose-ethereum) ⭐ 92 | 🐛 4 | 🌐 Go | 📅 2026-09-29
-* [Firehose Solana](https://github.com/streamingfast/firehose-solana) ⭐ 24 | 🐛 8 | 🌐 Go | 📅 2026-09-24
+* [Firehose Ethereum](https://github.com/streamingfast/firehose-ethereum) ⭐ 92 | 🐛 5 | 🌐 Go | 📅 2026-10-01
+* [Firehose Solana](https://github.com/streamingfast/firehose-solana) ⭐ 24 | 🐛 8 | 🌐 Go | 📅 2026-10-01
 * [Firehose Cosmos](https://github.com/graphprotocol/firehose-cosmos) ⭐ 12 | 🐛 4 | 🌐 Go | 📅 2023-12-08
 * [Firehose Aptos](https://github.com/streamingfast/firehose-aptos) ⭐ 6 | 🐛 2 | 🌐 Go | 📅 2023-05-20
 * [Firehose Sui](https://github.com/ticketland-io/sui-sf-indexer) ⭐ 4 | 🐛 0 | 🌐 Rust | 📅 2024-05-09
@@ -223,8 +223,8 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 
 > Rust libraries related to Substreams
 
-* [Substreams Solana](https://github.com/streamingfast/substreams-solana) ⭐ 19 | 🐛 1 | 🌐 Rust | 📅 2026-09-17 - Substreams development kit for Solana chains, contains Rust Firehose Block model and helpers.
-* [Substreams Rust](https://github.com/streamingfast/substreams-rs) ⭐ 12 | 🐛 10 | 🌐 Rust | 📅 2026-09-29 - Substreams is a powerful blockchain indexing technology, developed for The Graph Network.
+* [Substreams Solana](https://github.com/streamingfast/substreams-solana) ⭐ 19 | 🐛 1 | 🌐 Rust | 📅 2026-10-01 - Substreams development kit for Solana chains, contains Rust Firehose Block model and helpers.
+* [Substreams Rust](https://github.com/streamingfast/substreams-rs) ⭐ 12 | 🐛 10 | 🌐 Rust | 📅 2026-10-01 - Substreams is a powerful blockchain indexing technology, developed for The Graph Network.
 * [Antelope Rust](https://github.com/pinax-network/antelope.rs) ⭐ 0 | 🐛 0 | 🌐 Rust | 📅 2024-03-21 - Antelope Standard Library for Rust.
 
 ### Python
@@ -265,9 +265,9 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 
 ### Blocks
 
-* [​​Aptos](https://aptoslabs.com/) - [`aptos.extractor.v1.Block`](https://github.com/aptos-labs/aptos-core/blob/main/crates/aptos-protos/proto/aptos/extractor/v1/extractor.proto) ⭐ 6,437 | 🐛 557 | 🌐 Rust | 📅 2026-09-30
-* [Ethereum](https://ethereum.org/) - [`sf.ethereum.type.v2.Block`](https://github.com/streamingfast/firehose-ethereum/blob/develop/proto/sf/ethereum/type/v2/type.proto) ⭐ 92 | 🐛 4 | 🌐 Go | 📅 2026-09-29
-* [​​Solana](https://solana.com/) - [`sf.solana.type.v1.Block`](https://github.com/streamingfast/firehose-solana/blob/develop/proto/sf/solana/type/v1/type.proto) ⭐ 24 | 🐛 8 | 🌐 Go | 📅 2026-09-24
+* [​​Aptos](https://aptoslabs.com/) - [`aptos.extractor.v1.Block`](https://github.com/aptos-labs/aptos-core/blob/main/crates/aptos-protos/proto/aptos/extractor/v1/extractor.proto) ⭐ 6,438 | 🐛 552 | 🌐 Rust | 📅 2026-10-01
+* [Ethereum](https://ethereum.org/) - [`sf.ethereum.type.v2.Block`](https://github.com/streamingfast/firehose-ethereum/blob/develop/proto/sf/ethereum/type/v2/type.proto) ⭐ 92 | 🐛 5 | 🌐 Go | 📅 2026-10-01
+* [​​Solana](https://solana.com/) - [`sf.solana.type.v1.Block`](https://github.com/streamingfast/firehose-solana/blob/develop/proto/sf/solana/type/v1/type.proto) ⭐ 24 | 🐛 8 | 🌐 Go | 📅 2026-10-01
 * [​​NEAR](https://near.org/) - [`sf.near.type.v1.Block`](https://github.com/streamingfast/firehose-near/blob/develop/proto/sf/near/type/v1/type.proto) ⭐ 3 | 🐛 2 | 🌐 Go | 📅 2026-09-30
 * [​​Cosmos](https://cosmos.network/) - [`sf.cosmos.type.v1.Block`](https://github.com/figment-networks/proto-cosmos/blob/main/sf/cosmos/type/v1/type.proto) ⭐ 0 | 🐛 0 | 🌐 Makefile | 📅 2023-12-08
 * [​​Arweave](https://www.arweave.org/) - [`sf.arweave.type.v1.Block`](https://github.com/streamingfast/firehose-arweave/blob/develop/proto/sf/arweave/type/v1/type.proto) ⭐ 0 | 🐛 2 | 🌐 Go | 📅 2023-02-28
@@ -277,9 +277,9 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 * [`soulbound_modules` - Hotdog Powered 🌭](https://github.com/MercuricChloride/substreams_module_repo) ⭐ 5 | 🐛 1 | 🌐 Rust | 📅 2023-07-27
 * [KVOperations](https://github.com/streamingfast/substreams-sink-kv) ⭐ 3 | 🐛 6 | 🌐 Go | 📅 2024-11-29 - [`sf.substreams.sink.kv.v1`](https://github.com/streamingfast/substreams-sink-kv/blob/develop/proto/substreams/sink/kv/v1/kv.proto) ⭐ 3 | 🐛 6 | 🌐 Go | 📅 2024-11-29
 * [EntityChanges](https://github.com/streamingfast/substreams-entity-change) ⭐ 1 | 🐛 1 | 🌐 Rust | 📅 2024-10-16 - [`sf.substreams.entity.v1`](https://github.com/streamingfast/substreams-entity-change/blob/develop/proto/sf/substreams/entity/v1/entity.proto) ⭐ 1 | 🐛 1 | 🌐 Rust | 📅 2024-10-16
-* [DatabaseChanges](https://github.com/streamingfast/substreams-database-change) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2026-09-29 - [`sf.substreams.sink.database.v1`](https://github.com/streamingfast/substreams-database-change/blob/develop/proto/substreams/sink/database/v1/database.proto) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2026-09-29
+* [DatabaseChanges](https://github.com/streamingfast/substreams-database-change) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2026-10-01 - [`sf.substreams.sink.database.v1`](https://github.com/streamingfast/substreams-database-change/blob/develop/proto/substreams/sink/database/v1/database.proto) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2026-10-01
 * [PrometheusOperations](https://github.com/pinax-network/substreams-sink-prometheus.rs) ⚠️ Archived - [`sf.substreams.sink.prometheus.v1`](https://github.com/pinax-network/substreams-sink-prometheus.rs/blob/main/proto/substreams/sink/prometheus/v1/prometheus.proto) ⚠️ Archived
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._

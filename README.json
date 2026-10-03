@@ -61,7 +61,7 @@
             {
               "node_type": "item",
               "title": "Firehose Ethereum",
-              "description": null,
+              "description": "streamingfast/firehose-ethereum",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -82,7 +82,7 @@
             {
               "node_type": "item",
               "title": "Firehose Solana",
-              "description": null,
+              "description": "streamingfast/firehose-solana",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -103,7 +103,7 @@
             {
               "node_type": "item",
               "title": "Firehose Cosmos",
-              "description": null,
+              "description": "graphprotocol/firehose-cosmos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -124,7 +124,7 @@
             {
               "node_type": "item",
               "title": "Firehose Aptos",
-              "description": null,
+              "description": "streamingfast/firehose-aptos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -145,7 +145,7 @@
             {
               "node_type": "item",
               "title": "Firehose Sui",
-              "description": null,
+              "description": "Apocentre/sf-sui-extractor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -166,7 +166,7 @@
             {
               "node_type": "item",
               "title": "Firehose Near",
-              "description": null,
+              "description": "streamingfast/firehose-near",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -219,7 +219,7 @@
         {
           "node_type": "item",
           "title": "PostgreSQL Sink",
-          "description": null,
+          "description": "streamingfast/substreams-sink-sql",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -261,7 +261,7 @@
         {
           "node_type": "item",
           "title": "MongoDB Sink",
-          "description": null,
+          "description": "streamingfast/substreams-sink-mongodb",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -282,7 +282,7 @@
         {
           "node_type": "item",
           "title": "Prometheus Sink",
-          "description": null,
+          "description": "pinax-network/substreams-sink-prometheus",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -329,7 +329,7 @@
         {
           "node_type": "item",
           "title": "Discord Sink",
-          "description": null,
+          "description": "pinax-network/substreams-sink-discord",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -350,7 +350,7 @@
         {
           "node_type": "item",
           "title": "ClickHouse Sink",
-          "description": null,
+          "description": "aleno-ai/substreams-sink-clickhouse",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -397,7 +397,7 @@
         {
           "node_type": "item",
           "title": "Telegram Sink",
-          "description": null,
+          "description": "pinax-network/substreams-sink-telegram",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -418,7 +418,7 @@
         {
           "node_type": "item",
           "title": "Slack Sink",
-          "description": null,
+          "description": "pinax-network/substreams-sink-slack",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -445,12 +445,12 @@
         {
           "node_type": "item",
           "title": "Messari Substreams",
-          "description": null,
+          "description": "messari/substreams",
           "children": [
             {
               "node_type": "item",
               "title": "Compound V2",
-              "description": null,
+              "description": "messari/substreams",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -471,7 +471,7 @@
             {
               "node_type": "item",
               "title": "ENS",
-              "description": null,
+              "description": "messari/substreams",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -492,7 +492,7 @@
             {
               "node_type": "item",
               "title": "ERC20",
-              "description": null,
+              "description": "messari/substreams",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -513,7 +513,7 @@
             {
               "node_type": "item",
               "title": "ERC721",
-              "description": null,
+              "description": "messari/substreams",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -534,7 +534,7 @@
             {
               "node_type": "item",
               "title": "ETH Balance",
-              "description": null,
+              "description": "messari/substreams",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -555,7 +555,7 @@
             {
               "node_type": "item",
               "title": "Uniswap V2",
-              "description": null,
+              "description": "messari/substreams",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -593,12 +593,12 @@
         {
           "node_type": "item",
           "title": "StreamingFast Substreams",
-          "description": null,
+          "description": "streamingfast/substreams-playground",
           "children": [
             {
               "node_type": "item",
               "title": "PancakeSwap Substreams",
-              "description": null,
+              "description": "streamingfast/substreams-playground",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -619,7 +619,7 @@
             {
               "node_type": "item",
               "title": "ETH Token Substreams",
-              "description": null,
+              "description": "streamingfast/substreams-playground",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -640,7 +640,7 @@
             {
               "node_type": "item",
               "title": "Solana SPL Tokens",
-              "description": null,
+              "description": "streamingfast/substreams-playground",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -661,7 +661,7 @@
             {
               "node_type": "item",
               "title": "Uniswap",
-              "description": null,
+              "description": "streamingfast/substreams-playground",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -682,7 +682,7 @@
             {
               "node_type": "item",
               "title": "Example substreams consumers (Go, JavaScript, Python, Rust)",
-              "description": null,
+              "description": "streamingfast/substreams-playground",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -703,7 +703,7 @@
             {
               "node_type": "item",
               "title": "ETH Block Meta",
-              "description": null,
+              "description": "streamingfast/substreams-eth-block-meta",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -741,12 +741,12 @@
         {
           "node_type": "item",
           "title": "Pinax Substreams",
-          "description": null,
+          "description": "pinax-network/substreams",
           "children": [
             {
               "node_type": "item",
               "title": "eosio.ibc",
-              "description": null,
+              "description": "pinax-network/substreams",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -771,7 +771,7 @@
             {
               "node_type": "item",
               "title": "eosio.token",
-              "description": null,
+              "description": "pinax-network/substreams",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -796,7 +796,7 @@
             {
               "node_type": "item",
               "title": "accounts",
-              "description": null,
+              "description": "pinax-network/substreams",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -821,7 +821,7 @@
             {
               "node_type": "item",
               "title": "eosmechanics",
-              "description": null,
+              "description": "pinax-network/substreams",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -867,12 +867,12 @@
         {
           "node_type": "item",
           "title": "BuildersDAO Substreams",
-          "description": null,
+          "description": "Graph-BuildersDAO/substreams",
           "children": [
             {
               "node_type": "item",
               "title": "Chainlink Prices",
-              "description": null,
+              "description": "Graph-BuildersDAO/substreams",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -893,7 +893,7 @@
             {
               "node_type": "item",
               "title": "ERC1155",
-              "description": null,
+              "description": "Graph-BuildersDAO/substreams",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1131,7 +1131,7 @@
             {
               "node_type": "item",
               "title": "Substreams Sink (Golang)",
-              "description": null,
+              "description": "streamingfast/substreams-sink",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1165,7 +1165,7 @@
             {
               "node_type": "item",
               "title": "​​Aptos",
-              "description": null,
+              "description": "aptos-labs/aptos-core",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1174,8 +1174,8 @@
                 "id": 462597790,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T20:30:08Z",
-                "open_issues": 560,
+                "last_commit": "2026-10-03T05:05:44Z",
+                "open_issues": 564,
                 "owner": "aptos-labs",
                 "repo": "aptos-core",
                 "stars": 6437,
@@ -1192,7 +1192,7 @@
             {
               "node_type": "item",
               "title": "Ethereum",
-              "description": null,
+              "description": "streamingfast/firehose-ethereum",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1213,7 +1213,7 @@
             {
               "node_type": "item",
               "title": "​​Solana",
-              "description": null,
+              "description": "streamingfast/firehose-solana",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1234,7 +1234,7 @@
             {
               "node_type": "item",
               "title": "​​NEAR",
-              "description": null,
+              "description": "streamingfast/firehose-near",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1255,7 +1255,7 @@
             {
               "node_type": "item",
               "title": "​​Cosmos",
-              "description": null,
+              "description": "graphprotocol/proto-cosmos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1276,7 +1276,7 @@
             {
               "node_type": "item",
               "title": "​​Arweave",
-              "description": null,
+              "description": "streamingfast/firehose-arweave",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1304,7 +1304,7 @@
             {
               "node_type": "item",
               "title": "- Hotdog Powered 🌭",
-              "description": null,
+              "description": "MercuricChloride/substreams_module_repo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1325,7 +1325,7 @@
             {
               "node_type": "item",
               "title": "KVOperations",
-              "description": null,
+              "description": "streamingfast/substreams-sink-kv",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1346,7 +1346,7 @@
             {
               "node_type": "item",
               "title": "EntityChanges",
-              "description": null,
+              "description": "streamingfast/substreams-sink-entity-changes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1367,7 +1367,7 @@
             {
               "node_type": "item",
               "title": "DatabaseChanges",
-              "description": null,
+              "description": "streamingfast/substreams-sink-database-changes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1388,7 +1388,7 @@
             {
               "node_type": "item",
               "title": "PrometheusOperations",
-              "description": null,
+              "description": "pinax-network/substreams-sink-prometheus.rs",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1422,7 +1422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:50:09.562Z",
+    "last_updated": "2026-10-03T05:07:03.034Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome lists about Substreams",

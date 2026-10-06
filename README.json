@@ -1174,11 +1174,11 @@
                 "id": 462597790,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-05T22:45:23Z",
-                "open_issues": 553,
+                "last_commit": "2026-10-06T10:43:06Z",
+                "open_issues": 550,
                 "owner": "aptos-labs",
                 "repo": "aptos-core",
-                "stars": 6436,
+                "stars": 6437,
                 "topics": [
                   "aptos",
                   "blockchain",
@@ -1422,7 +1422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T22:47:36.760Z",
+    "last_updated": "2026-10-06T10:46:09.224Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome lists about Substreams",

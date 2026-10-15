@@ -70,7 +70,7 @@
                 "id": 396876570,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T20:13:15Z",
+                "last_commit": "2026-10-15T18:44:18Z",
                 "open_issues": 5,
                 "owner": "streamingfast",
                 "repo": "firehose-ethereum",
@@ -1174,11 +1174,11 @@
                 "id": 462597790,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-14T19:17:32Z",
-                "open_issues": 554,
+                "last_commit": "2026-10-15T19:51:29Z",
+                "open_issues": 551,
                 "owner": "aptos-labs",
                 "repo": "aptos-core",
-                "stars": 6443,
+                "stars": 6442,
                 "topics": [
                   "aptos",
                   "blockchain",
@@ -1201,7 +1201,7 @@
                 "id": 396876570,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T20:13:15Z",
+                "last_commit": "2026-10-15T18:44:18Z",
                 "open_issues": 5,
                 "owner": "streamingfast",
                 "repo": "firehose-ethereum",
@@ -1422,7 +1422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T20:15:36.508Z",
+    "last_updated": "2026-10-15T19:56:35.277Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome lists about Substreams",

@@ -1108,8 +1108,8 @@
                 "id": 620464895,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T14:39:23Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-16T23:27:07Z",
+                "open_issues": 1,
                 "owner": "pinax-network",
                 "repo": "substreams-sink",
                 "stars": 5,
@@ -1174,8 +1174,8 @@
                 "id": 462597790,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-16T18:48:48Z",
-                "open_issues": 552,
+                "last_commit": "2026-10-17T15:38:02Z",
+                "open_issues": 554,
                 "owner": "aptos-labs",
                 "repo": "aptos-core",
                 "stars": 6442,
@@ -1422,7 +1422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T19:36:31.961Z",
+    "last_updated": "2026-10-17T18:38:03.085Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome lists about Substreams",

@@ -234,7 +234,7 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 > Python libraries related to Substreams
 
 * [substreams-python](https://github.com/messari/substreams-python) ⭐ 5 | 🐛 1 | 🌐 Python | 📅 2023-09-05 - WIP Python Interface for querying via substreams.
-* [substreams\_firehose](https://github.com/pinax-network/substreams_firehose) ⭐ 4 | 🐛 15 | 🌐 Python | 📅 2026-10-16 - Extract any data from the blockchain using gRPC-enabled endpoints (powered by **Firehose** and **Substreams**).
+* [substreams\_firehose](https://github.com/pinax-network/substreams_firehose) ⭐ 4 | 🐛 16 | 🌐 Python | 📅 2026-11-01 - Extract any data from the blockchain using gRPC-enabled endpoints (powered by **Firehose** and **Substreams**).
 
 ### JavaScript
 
@@ -265,7 +265,7 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 
 ### Blocks
 
-* [​​Aptos](https://aptoslabs.com/) - [`aptos.extractor.v1.Block`](https://github.com/aptos-labs/aptos-core/blob/main/crates/aptos-protos/proto/aptos/extractor/v1/extractor.proto) ⭐ 6,441 | 🐛 563 | 🌐 Rust | 📅 2026-11-01
+* [​​Aptos](https://aptoslabs.com/) - [`aptos.extractor.v1.Block`](https://github.com/aptos-labs/aptos-core/blob/main/crates/aptos-protos/proto/aptos/extractor/v1/extractor.proto) ⭐ 6,441 | 🐛 562 | 🌐 Rust | 📅 2026-11-02
 * [Ethereum](https://ethereum.org/) - [`sf.ethereum.type.v2.Block`](https://github.com/streamingfast/firehose-ethereum/blob/develop/proto/sf/ethereum/type/v2/type.proto) ⭐ 93 | 🐛 6 | 🌐 Go | 📅 2026-10-30
 * [​​Solana](https://solana.com/) - [`sf.solana.type.v1.Block`](https://github.com/streamingfast/firehose-solana/blob/develop/proto/sf/solana/type/v1/type.proto) ⭐ 24 | 🐛 9 | 🌐 Go | 📅 2026-10-29
 * [​​NEAR](https://near.org/) - [`sf.near.type.v1.Block`](https://github.com/streamingfast/firehose-near/blob/develop/proto/sf/near/type/v1/type.proto) ⭐ 3 | 🐛 2 | 🌐 Go | 📅 2026-10-13
@@ -282,4 +282,4 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._

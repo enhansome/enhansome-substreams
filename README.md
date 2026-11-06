@@ -143,7 +143,7 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 ### Substreams
 
 * [Substreams Ethereum](https://github.com/streamingfast/substreams-ethereum) ⭐ 23 | 🐛 8 | 🌐 Rust | 📅 2026-11-04 - Substreams development kit for Ethereum chains, contains Firehose Block model and helpers as well as utilities for Ethereum ABI encoding/decoding.
-* [Substreams Antelope](https://github.com/pinax-network/substreams-antelope) ⭐ 2 | 🐛 5 | 🌐 Rust | 📅 2026-09-02 - This library contains the generated protobuffer for the Antelope blocks as well as helper methods to extract and parse block data.
+* [Substreams Antelope](https://github.com/pinax-network/substreams-antelope) ⭐ 2 | 🐛 4 | 🌐 Rust | 📅 2026-09-02 - This library contains the generated protobuffer for the Antelope blocks as well as helper methods to extract and parse block data.
 
 ### Firehose
 
@@ -224,7 +224,7 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 > Rust libraries related to Substreams
 
 * [Substreams Solana](https://github.com/streamingfast/substreams-solana) ⭐ 19 | 🐛 1 | 🌐 Rust | 📅 2026-10-01 - Substreams development kit for Solana chains, contains Rust Firehose Block model and helpers.
-* [Substreams Rust](https://github.com/streamingfast/substreams-rs) ⭐ 12 | 🐛 10 | 🌐 Rust | 📅 2026-11-05 - Substreams is a powerful blockchain indexing technology, developed for The Graph Network.
+* [Substreams Rust](https://github.com/streamingfast/substreams-rs) ⭐ 12 | 🐛 10 | 🌐 Rust | 📅 2026-11-06 - Substreams is a powerful blockchain indexing technology, developed for The Graph Network.
 * [Antelope Rust](https://github.com/pinax-network/antelope.rs) ⭐ 0 | 🐛 0 | 🌐 Rust | 📅 2024-03-21 - Antelope Standard Library for Rust.
 
 ### Python
@@ -265,7 +265,7 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 
 ### Blocks
 
-* [​​Aptos](https://aptoslabs.com/) - [`aptos.extractor.v1.Block`](https://github.com/aptos-labs/aptos-core/blob/main/crates/aptos-protos/proto/aptos/extractor/v1/extractor.proto) ⭐ 6,440 | 🐛 564 | 🌐 Rust | 📅 2026-11-05
+* [​​Aptos](https://aptoslabs.com/) - [`aptos.extractor.v1.Block`](https://github.com/aptos-labs/aptos-core/blob/main/crates/aptos-protos/proto/aptos/extractor/v1/extractor.proto) ⭐ 6,440 | 🐛 565 | 🌐 Rust | 📅 2026-11-06
 * [Ethereum](https://ethereum.org/) - [`sf.ethereum.type.v2.Block`](https://github.com/streamingfast/firehose-ethereum/blob/develop/proto/sf/ethereum/type/v2/type.proto) ⭐ 94 | 🐛 6 | 🌐 Go | 📅 2026-11-05
 * [​​Solana](https://solana.com/) - [`sf.solana.type.v1.Block`](https://github.com/streamingfast/firehose-solana/blob/develop/proto/sf/solana/type/v1/type.proto) ⭐ 24 | 🐛 9 | 🌐 Go | 📅 2026-10-29
 * [​​NEAR](https://near.org/) - [`sf.near.type.v1.Block`](https://github.com/streamingfast/firehose-near/blob/develop/proto/sf/near/type/v1/type.proto) ⭐ 3 | 🐛 2 | 🌐 Go | 📅 2026-10-13
@@ -282,4 +282,4 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._

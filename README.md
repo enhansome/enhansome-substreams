@@ -147,8 +147,8 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 
 ### Firehose
 
-* [Firehose Ethereum](https://github.com/streamingfast/firehose-ethereum) ⭐ 94 | 🐛 6 | 🌐 Go | 📅 2026-11-09
-* [Firehose Solana](https://github.com/streamingfast/firehose-solana) ⭐ 24 | 🐛 9 | 🌐 Go | 📅 2026-10-29
+* [Firehose Ethereum](https://github.com/streamingfast/firehose-ethereum) ⭐ 94 | 🐛 7 | 🌐 Go | 📅 2026-11-10
+* [Firehose Solana](https://github.com/streamingfast/firehose-solana) ⭐ 24 | 🐛 9 | 🌐 Go | 📅 2026-11-10
 * [Firehose Cosmos](https://github.com/graphprotocol/firehose-cosmos) ⭐ 12 | 🐛 4 | 🌐 Go | 📅 2023-12-08
 * [Firehose Aptos](https://github.com/streamingfast/firehose-aptos) ⭐ 6 | 🐛 2 | 🌐 Go | 📅 2023-05-20
 * [Firehose Sui](https://github.com/ticketland-io/sui-sf-indexer) ⭐ 4 | 🐛 0 | 🌐 Rust | 📅 2024-05-09
@@ -196,11 +196,11 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
   * [Uniswap](https://github.com/streamingfast/substreams-playground/tree/master/modules/uniswap) ⚠️ Archived
   * [Example substreams consumers (Go, JavaScript, Python, Rust)](https://github.com/streamingfast/substreams-playground/tree/master/consumers) ⚠️ Archived
   * [ETH Block Meta](https://github.com/streamingfast/substreams-eth-block-meta) ⭐ 4 | 🐛 0 | 🌐 Rust | 📅 2023-10-31
-* [Pinax Substreams](https://github.com/pinax-network/substreams) ⭐ 5 | 🐛 5 | 🌐 Rust | 📅 2024-10-21
-  * [eosio.ibc](https://github.com/pinax-network/substreams/tree/develop/eosio.ibc) ⭐ 5 | 🐛 5 | 🌐 Rust | 📅 2024-10-21
-  * [eosio.token](https://github.com/pinax-network/substreams/tree/develop/eosio.token) ⭐ 5 | 🐛 5 | 🌐 Rust | 📅 2024-10-21
-  * [accounts](https://github.com/pinax-network/substreams/tree/develop/accounts) ⭐ 5 | 🐛 5 | 🌐 Rust | 📅 2024-10-21
-  * [eosmechanics](https://github.com/pinax-network/substreams/tree/develop/eosmechanics) ⭐ 5 | 🐛 5 | 🌐 Rust | 📅 2024-10-21
+* [Pinax Substreams](https://github.com/pinax-network/substreams) ⭐ 5 | 🐛 5 | 🌐 Rust | 📅 2026-11-10
+  * [eosio.ibc](https://github.com/pinax-network/substreams/tree/develop/eosio.ibc) ⭐ 5 | 🐛 5 | 🌐 Rust | 📅 2026-11-10
+  * [eosio.token](https://github.com/pinax-network/substreams/tree/develop/eosio.token) ⭐ 5 | 🐛 5 | 🌐 Rust | 📅 2026-11-10
+  * [accounts](https://github.com/pinax-network/substreams/tree/develop/accounts) ⭐ 5 | 🐛 5 | 🌐 Rust | 📅 2026-11-10
+  * [eosmechanics](https://github.com/pinax-network/substreams/tree/develop/eosmechanics) ⭐ 5 | 🐛 5 | 🌐 Rust | 📅 2026-11-10
 * [BuildersDAO Substreams](https://github.com/Graph-BuildersDAO/substreams) ⭐ 3 | 🐛 1 | 🌐 Rust | 📅 2023-12-18
   * [Chainlink Prices](https://github.com/Graph-BuildersDAO/substreams/tree/master/chainlink-prices) ⭐ 3 | 🐛 1 | 🌐 Rust | 📅 2023-12-18
   * [ERC1155](https://github.com/Graph-BuildersDAO/substreams/tree/master/erc1155) ⭐ 3 | 🐛 1 | 🌐 Rust | 📅 2023-12-18
@@ -223,7 +223,7 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 
 > Rust libraries related to Substreams
 
-* [Substreams Solana](https://github.com/streamingfast/substreams-solana) ⭐ 19 | 🐛 1 | 🌐 Rust | 📅 2026-10-01 - Substreams development kit for Solana chains, contains Rust Firehose Block model and helpers.
+* [Substreams Solana](https://github.com/streamingfast/substreams-solana) ⭐ 19 | 🐛 1 | 🌐 Rust | 📅 2026-11-10 - Substreams development kit for Solana chains, contains Rust Firehose Block model and helpers.
 * [Substreams Rust](https://github.com/streamingfast/substreams-rs) ⭐ 12 | 🐛 10 | 🌐 Rust | 📅 2026-11-06 - Substreams is a powerful blockchain indexing technology, developed for The Graph Network.
 * [Antelope Rust](https://github.com/pinax-network/antelope.rs) ⭐ 0 | 🐛 0 | 🌐 Rust | 📅 2024-03-21 - Antelope Standard Library for Rust.
 
@@ -265,9 +265,9 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 
 ### Blocks
 
-* [​​Aptos](https://aptoslabs.com/) - [`aptos.extractor.v1.Block`](https://github.com/aptos-labs/aptos-core/blob/main/crates/aptos-protos/proto/aptos/extractor/v1/extractor.proto) ⭐ 6,440 | 🐛 578 | 🌐 Rust | 📅 2026-11-10
-* [Ethereum](https://ethereum.org/) - [`sf.ethereum.type.v2.Block`](https://github.com/streamingfast/firehose-ethereum/blob/develop/proto/sf/ethereum/type/v2/type.proto) ⭐ 94 | 🐛 6 | 🌐 Go | 📅 2026-11-09
-* [​​Solana](https://solana.com/) - [`sf.solana.type.v1.Block`](https://github.com/streamingfast/firehose-solana/blob/develop/proto/sf/solana/type/v1/type.proto) ⭐ 24 | 🐛 9 | 🌐 Go | 📅 2026-10-29
+* [​​Aptos](https://aptoslabs.com/) - [`aptos.extractor.v1.Block`](https://github.com/aptos-labs/aptos-core/blob/main/crates/aptos-protos/proto/aptos/extractor/v1/extractor.proto) ⭐ 6,441 | 🐛 574 | 🌐 Rust | 📅 2026-11-10
+* [Ethereum](https://ethereum.org/) - [`sf.ethereum.type.v2.Block`](https://github.com/streamingfast/firehose-ethereum/blob/develop/proto/sf/ethereum/type/v2/type.proto) ⭐ 94 | 🐛 7 | 🌐 Go | 📅 2026-11-10
+* [​​Solana](https://solana.com/) - [`sf.solana.type.v1.Block`](https://github.com/streamingfast/firehose-solana/blob/develop/proto/sf/solana/type/v1/type.proto) ⭐ 24 | 🐛 9 | 🌐 Go | 📅 2026-11-10
 * [​​NEAR](https://near.org/) - [`sf.near.type.v1.Block`](https://github.com/streamingfast/firehose-near/blob/develop/proto/sf/near/type/v1/type.proto) ⭐ 3 | 🐛 2 | 🌐 Go | 📅 2026-10-13
 * [​​Cosmos](https://cosmos.network/) - [`sf.cosmos.type.v1.Block`](https://github.com/figment-networks/proto-cosmos/blob/main/sf/cosmos/type/v1/type.proto) ⭐ 1 | 🐛 0 | 🌐 Makefile | 📅 2023-12-08
 * [​​Arweave](https://www.arweave.org/) - [`sf.arweave.type.v1.Block`](https://github.com/streamingfast/firehose-arweave/blob/develop/proto/sf/arweave/type/v1/type.proto) ⭐ 0 | 🐛 2 | 🌐 Go | 📅 2023-02-28

@@ -143,7 +143,7 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 ### Substreams
 
 * [Substreams Ethereum](https://github.com/streamingfast/substreams-ethereum) ⭐ 23 | 🐛 8 | 🌐 Rust | 📅 2026-11-04 - Substreams development kit for Ethereum chains, contains Firehose Block model and helpers as well as utilities for Ethereum ABI encoding/decoding.
-* [Substreams Antelope](https://github.com/pinax-network/substreams-antelope) ⭐ 2 | 🐛 4 | 🌐 Rust | 📅 2026-09-02 - This library contains the generated protobuffer for the Antelope blocks as well as helper methods to extract and parse block data.
+* [Substreams Antelope](https://github.com/pinax-network/substreams-antelope) ⭐ 2 | 🐛 3 | 🌐 Rust | 📅 2026-09-02 - This library contains the generated protobuffer for the Antelope blocks as well as helper methods to extract and parse block data.
 
 ### Firehose
 
@@ -196,11 +196,11 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
   * [Uniswap](https://github.com/streamingfast/substreams-playground/tree/master/modules/uniswap) ⚠️ Archived
   * [Example substreams consumers (Go, JavaScript, Python, Rust)](https://github.com/streamingfast/substreams-playground/tree/master/consumers) ⚠️ Archived
   * [ETH Block Meta](https://github.com/streamingfast/substreams-eth-block-meta) ⭐ 4 | 🐛 0 | 🌐 Rust | 📅 2023-10-31
-* [Pinax Substreams](https://github.com/pinax-network/substreams) ⭐ 5 | 🐛 5 | 🌐 Rust | 📅 2026-11-10
-  * [eosio.ibc](https://github.com/pinax-network/substreams/tree/develop/eosio.ibc) ⭐ 5 | 🐛 5 | 🌐 Rust | 📅 2026-11-10
-  * [eosio.token](https://github.com/pinax-network/substreams/tree/develop/eosio.token) ⭐ 5 | 🐛 5 | 🌐 Rust | 📅 2026-11-10
-  * [accounts](https://github.com/pinax-network/substreams/tree/develop/accounts) ⭐ 5 | 🐛 5 | 🌐 Rust | 📅 2026-11-10
-  * [eosmechanics](https://github.com/pinax-network/substreams/tree/develop/eosmechanics) ⭐ 5 | 🐛 5 | 🌐 Rust | 📅 2026-11-10
+* [Pinax Substreams](https://github.com/pinax-network/substreams) ⭐ 5 | 🐛 3 | 🌐 Rust | 📅 2026-11-10
+  * [eosio.ibc](https://github.com/pinax-network/substreams/tree/develop/eosio.ibc) ⭐ 5 | 🐛 3 | 🌐 Rust | 📅 2026-11-10
+  * [eosio.token](https://github.com/pinax-network/substreams/tree/develop/eosio.token) ⭐ 5 | 🐛 3 | 🌐 Rust | 📅 2026-11-10
+  * [accounts](https://github.com/pinax-network/substreams/tree/develop/accounts) ⭐ 5 | 🐛 3 | 🌐 Rust | 📅 2026-11-10
+  * [eosmechanics](https://github.com/pinax-network/substreams/tree/develop/eosmechanics) ⭐ 5 | 🐛 3 | 🌐 Rust | 📅 2026-11-10
 * [BuildersDAO Substreams](https://github.com/Graph-BuildersDAO/substreams) ⭐ 3 | 🐛 1 | 🌐 Rust | 📅 2023-12-18
   * [Chainlink Prices](https://github.com/Graph-BuildersDAO/substreams/tree/master/chainlink-prices) ⭐ 3 | 🐛 1 | 🌐 Rust | 📅 2023-12-18
   * [ERC1155](https://github.com/Graph-BuildersDAO/substreams/tree/master/erc1155) ⭐ 3 | 🐛 1 | 🌐 Rust | 📅 2023-12-18
@@ -242,7 +242,7 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 
 > JavaScript libraries related to Substreams
 
-* [Substreams JS](https://github.com/pinax-network/substreams-js) ⭐ 6 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-16 - Substream JavaScript consumer library using Node.js Event emitters.
+* [Substreams JS](https://github.com/pinax-network/substreams-js) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-16 - Substream JavaScript consumer library using Node.js Event emitters.
 * [substreams-sink](https://github.com/pinax-network/substreams-sink) ⭐ 5 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-16 - JavaScript/TypeScript toolset to facilitate substreams sink development.
 
 ### Golang
@@ -265,7 +265,7 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 
 ### Blocks
 
-* [​​Aptos](https://aptoslabs.com/) - [`aptos.extractor.v1.Block`](https://github.com/aptos-labs/aptos-core/blob/main/crates/aptos-protos/proto/aptos/extractor/v1/extractor.proto) ⭐ 6,440 | 🐛 581 | 🌐 Rust | 📅 2026-11-13
+* [​​Aptos](https://aptoslabs.com/) - [`aptos.extractor.v1.Block`](https://github.com/aptos-labs/aptos-core/blob/main/crates/aptos-protos/proto/aptos/extractor/v1/extractor.proto) ⭐ 6,439 | 🐛 564 | 🌐 Rust | 📅 2026-11-14
 * [Ethereum](https://ethereum.org/) - [`sf.ethereum.type.v2.Block`](https://github.com/streamingfast/firehose-ethereum/blob/develop/proto/sf/ethereum/type/v2/type.proto) ⭐ 94 | 🐛 7 | 🌐 Go | 📅 2026-11-13
 * [​​Solana](https://solana.com/) - [`sf.solana.type.v1.Block`](https://github.com/streamingfast/firehose-solana/blob/develop/proto/sf/solana/type/v1/type.proto) ⭐ 24 | 🐛 9 | 🌐 Go | 📅 2026-11-13
 * [​​NEAR](https://near.org/) - [`sf.near.type.v1.Block`](https://github.com/streamingfast/firehose-near/blob/develop/proto/sf/near/type/v1/type.proto) ⭐ 3 | 🐛 2 | 🌐 Go | 📅 2026-10-13
@@ -282,4 +282,4 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._

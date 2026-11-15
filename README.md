@@ -182,13 +182,13 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 
 > Substreams code examples written in Rust
 
-* [Messari Substreams](https://github.com/messari/substreams) ⭐ 63 | 🐛 31 | 🌐 Rust | 📅 2024-05-09
-  * [Compound V2](https://github.com/messari/substreams/tree/master/compound-v2) ⭐ 63 | 🐛 31 | 🌐 Rust | 📅 2024-05-09
-  * [ENS](https://github.com/messari/substreams/tree/master/ens-names) ⭐ 63 | 🐛 31 | 🌐 Rust | 📅 2024-05-09
-  * [ERC20](https://github.com/messari/substreams/tree/master/erc20-holdings) ⭐ 63 | 🐛 31 | 🌐 Rust | 📅 2024-05-09
-  * [ERC721](https://github.com/messari/substreams/tree/master/erc721) ⭐ 63 | 🐛 31 | 🌐 Rust | 📅 2024-05-09
-  * [ETH Balance](https://github.com/messari/substreams/tree/master/eth-balance) ⭐ 63 | 🐛 31 | 🌐 Rust | 📅 2024-05-09
-  * [Uniswap V2](https://github.com/messari/substreams/tree/master/uniswap-v2) ⭐ 63 | 🐛 31 | 🌐 Rust | 📅 2024-05-09
+* [Messari Substreams](https://github.com/messari/substreams) ⭐ 63 | 🐛 34 | 🌐 Rust | 📅 2026-11-15
+  * [Compound V2](https://github.com/messari/substreams/tree/master/compound-v2) ⭐ 63 | 🐛 34 | 🌐 Rust | 📅 2026-11-15
+  * [ENS](https://github.com/messari/substreams/tree/master/ens-names) ⭐ 63 | 🐛 34 | 🌐 Rust | 📅 2026-11-15
+  * [ERC20](https://github.com/messari/substreams/tree/master/erc20-holdings) ⭐ 63 | 🐛 34 | 🌐 Rust | 📅 2026-11-15
+  * [ERC721](https://github.com/messari/substreams/tree/master/erc721) ⭐ 63 | 🐛 34 | 🌐 Rust | 📅 2026-11-15
+  * [ETH Balance](https://github.com/messari/substreams/tree/master/eth-balance) ⭐ 63 | 🐛 34 | 🌐 Rust | 📅 2026-11-15
+  * [Uniswap V2](https://github.com/messari/substreams/tree/master/uniswap-v2) ⭐ 63 | 🐛 34 | 🌐 Rust | 📅 2026-11-15
 * [StreamingFast Substreams](https://github.com/streamingfast/substreams-playground) ⚠️ Archived
   * [PancakeSwap Substreams](https://github.com/streamingfast/substreams-playground/tree/master/modules/pancakeswap) ⚠️ Archived
   * [ETH Token Substreams](https://github.com/streamingfast/substreams-playground/tree/master/modules/eth-token) ⚠️ Archived
@@ -265,7 +265,7 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 
 ### Blocks
 
-* [​​Aptos](https://aptoslabs.com/) - [`aptos.extractor.v1.Block`](https://github.com/aptos-labs/aptos-core/blob/main/crates/aptos-protos/proto/aptos/extractor/v1/extractor.proto) ⭐ 6,439 | 🐛 564 | 🌐 Rust | 📅 2026-11-14
+* [​​Aptos](https://aptoslabs.com/) - [`aptos.extractor.v1.Block`](https://github.com/aptos-labs/aptos-core/blob/main/crates/aptos-protos/proto/aptos/extractor/v1/extractor.proto) ⭐ 6,439 | 🐛 564 | 🌐 Rust | 📅 2026-11-15
 * [Ethereum](https://ethereum.org/) - [`sf.ethereum.type.v2.Block`](https://github.com/streamingfast/firehose-ethereum/blob/develop/proto/sf/ethereum/type/v2/type.proto) ⭐ 94 | 🐛 7 | 🌐 Go | 📅 2026-11-13
 * [​​Solana](https://solana.com/) - [`sf.solana.type.v1.Block`](https://github.com/streamingfast/firehose-solana/blob/develop/proto/sf/solana/type/v1/type.proto) ⭐ 24 | 🐛 9 | 🌐 Go | 📅 2026-11-13
 * [​​NEAR](https://near.org/) - [`sf.near.type.v1.Block`](https://github.com/streamingfast/firehose-near/blob/develop/proto/sf/near/type/v1/type.proto) ⭐ 3 | 🐛 2 | 🌐 Go | 📅 2026-10-13
@@ -282,4 +282,4 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._

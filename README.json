@@ -970,7 +970,7 @@
                 "language": "Rust",
                 "license": null,
                 "last_commit": "2026-11-13T15:32:49Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "streamingfast",
                 "repo": "substreams-rs",
                 "stars": 12,
@@ -1174,11 +1174,11 @@
                 "id": 462597790,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-26T00:23:18Z",
-                "open_issues": 606,
+                "last_commit": "2026-11-26T23:30:08Z",
+                "open_issues": 601,
                 "owner": "aptos-labs",
                 "repo": "aptos-core",
-                "stars": 6442,
+                "stars": 6441,
                 "topics": [
                   "aptos",
                   "blockchain",
@@ -1422,7 +1422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T00:33:04.618Z",
+    "last_updated": "2026-11-27T00:41:28.055Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome lists about Substreams",

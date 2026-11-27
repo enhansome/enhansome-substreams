@@ -224,7 +224,7 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 > Rust libraries related to Substreams
 
 * [Substreams Solana](https://github.com/streamingfast/substreams-solana) ⭐ 19 | 🐛 4 | 🌐 Rust | 📅 2026-11-13 - Substreams development kit for Solana chains, contains Rust Firehose Block model and helpers.
-* [Substreams Rust](https://github.com/streamingfast/substreams-rs) ⭐ 12 | 🐛 10 | 🌐 Rust | 📅 2026-11-13 - Substreams is a powerful blockchain indexing technology, developed for The Graph Network.
+* [Substreams Rust](https://github.com/streamingfast/substreams-rs) ⭐ 12 | 🐛 11 | 🌐 Rust | 📅 2026-11-13 - Substreams is a powerful blockchain indexing technology, developed for The Graph Network.
 * [Antelope Rust](https://github.com/pinax-network/antelope.rs) ⭐ 0 | 🐛 0 | 🌐 Rust | 📅 2024-03-21 - Antelope Standard Library for Rust.
 
 ### Python
@@ -265,7 +265,7 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 
 ### Blocks
 
-* [​​Aptos](https://aptoslabs.com/) - [`aptos.extractor.v1.Block`](https://github.com/aptos-labs/aptos-core/blob/main/crates/aptos-protos/proto/aptos/extractor/v1/extractor.proto) ⭐ 6,442 | 🐛 606 | 🌐 Rust | 📅 2026-11-26
+* [​​Aptos](https://aptoslabs.com/) - [`aptos.extractor.v1.Block`](https://github.com/aptos-labs/aptos-core/blob/main/crates/aptos-protos/proto/aptos/extractor/v1/extractor.proto) ⭐ 6,441 | 🐛 601 | 🌐 Rust | 📅 2026-11-26
 * [Ethereum](https://ethereum.org/) - [`sf.ethereum.type.v2.Block`](https://github.com/streamingfast/firehose-ethereum/blob/develop/proto/sf/ethereum/type/v2/type.proto) ⭐ 94 | 🐛 5 | 🌐 Go | 📅 2026-11-24
 * [​​Solana](https://solana.com/) - [`sf.solana.type.v1.Block`](https://github.com/streamingfast/firehose-solana/blob/develop/proto/sf/solana/type/v1/type.proto) ⭐ 24 | 🐛 8 | 🌐 Go | 📅 2026-11-24
 * [​​NEAR](https://near.org/) - [`sf.near.type.v1.Block`](https://github.com/streamingfast/firehose-near/blob/develop/proto/sf/near/type/v1/type.proto) ⭐ 3 | 🐛 2 | 🌐 Go | 📅 2026-10-13
@@ -282,4 +282,4 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
